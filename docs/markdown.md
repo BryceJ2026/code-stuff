@@ -50,13 +50,13 @@ property:value;
 }
 ```
 
-'''java
+```java
 System.out.println("hehehe")
-'''
+```
 
 
 
-'''python
+```python
 print("This is code for sure")
-'''
+```
 
