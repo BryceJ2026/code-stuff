@@ -1,7 +1,7 @@
 
 layout: default
-title: "Markdown Notes"
-nav_order: 1
+title: "HTML Notes"
+nav_order: 2
 ---
 
 #### Table of Contents
