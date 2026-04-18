@@ -16,3 +16,12 @@ nav_order: 2
 #### Fun fact: HTML is an acronym for Hyper Text Markup Language.
 
 HTML is the main coding language for making web pages, and makes the foundation of a website.
+To start making code with HTML, make a tag using the < and > with html inside.
+
+```html
+<html>
+
+<p>This is the basis of making a website, remember it well</p>
+
+</html>
+```
