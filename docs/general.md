@@ -20,3 +20,5 @@ nav_order: 2
 * Using AI to code is okay, but it is better to use it to do tedious tasks, like compiling information
 * Make sure you understand what the code is doing, so you can use that info later
 * Be very creative, and always think outside the box.
+* Bugs are inevitable, so learn what errors mean what, and always fix spelling mistakes.
+* Having notes either in or outside the code is very important for review
