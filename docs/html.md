@@ -28,3 +28,14 @@ To start making code with HTML, make a tag using the < and > with HTML inside.
 
 When using HTML, you have to remember that it will not look that good.
 As an example, HTML makes the home, but CSS will add the paint and furniture.
+Now,make sure to remember these tags
+
+```html
+<!-- Use this to add comments -->
+<p>Used to write large amounts of text</p>
+<h1> Used for titles<h/1>
+<h2> Gets smaller as the numbers go down </h2>
+<title> Self explanitory </title>
+
+
+```
