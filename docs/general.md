@@ -2,7 +2,7 @@
 ---
 layout: default
 title: "General advice"
-nav_order: 2
+nav_order: 1
 ---
 
 #### Table of Contents
