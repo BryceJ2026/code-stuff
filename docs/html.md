@@ -21,7 +21,7 @@ To start making code with HTML, make a tag using the < and > with HTML inside.
 ```html
 <html>
 
-<p>This is the basis of making a website, remember it well</p>
+<p>Always use the html tag whevere you are using html.</p>
 
 </html>
 ```
