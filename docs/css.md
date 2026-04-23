@@ -10,3 +10,8 @@ nav_order: 4
 {:toc}
 
 ---
+
+
+# CSS In a nutshell
+
+CSS (Cascading Style Sheets) is a coding language that teams up with html.
