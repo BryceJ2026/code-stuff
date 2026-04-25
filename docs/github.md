@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "HTML Notes"
+title: "Github tutorial"
 nav_order: 1
 ---
 
