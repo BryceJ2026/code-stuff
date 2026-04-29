@@ -24,6 +24,6 @@ You can animate things too.
 CSS uses a simple system. Look in the box below to see
 ```css
 body {
-color: #insert Hex Code here
+color: #insert Hex Code here;
 }
 ```
