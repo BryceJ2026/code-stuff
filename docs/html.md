@@ -21,14 +21,14 @@ To start making code with HTML, make a tag using the < and > with HTML inside.
 ```html
 <html>
 
-<p>Always use the html tag whevere you are using html.</p>
+<p>Always use the HTML tag wherever you are using HTML.</p>
 
 </html>
 ```
 
 When using HTML, you have to remember that it will not look that good.
 As an example, HTML makes the home, but CSS will add the paint and furniture.
-Now, make sure to experiment these tags
+Now, make sure to experiment with these tags
 
 ```html
 <!-- Use this to add comments -->
@@ -39,6 +39,6 @@ Now, make sure to experiment these tags
 <a> Used for putting links into text </a>
 <b> Bolds text </b>
 <br> breaks lines with text</br>
-
-
 ```
+
+Also,
