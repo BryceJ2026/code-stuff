@@ -15,7 +15,7 @@ nav_order: 4
 # CSS In a nutshell
 
 CSS (Cascading Style Sheets) is a coding language that teams up with HTML.
-It does this by selecting tags in the HTML code, and editing them.
+It does this by selecting tags in the HTML code and editing them.
 You can change the entire site color, font, size of things, etc.
 You can animate things too.
 
