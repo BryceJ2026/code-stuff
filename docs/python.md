@@ -28,8 +28,9 @@ print("Hello")
 ```
 You can also print variables themselves to print their values.
 Printing the type of variable a variable is is also possible.
-Next function, def.
+Now onto the function, def.
 ```python
 def hello_there():
 print("Wazzap")
 ```
+You can choose to make the function return something, like the solved value of an equation.
