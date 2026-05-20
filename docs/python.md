@@ -20,3 +20,16 @@ Unlike Java, you do not need to declare the type of object to use it.
 x = 2
 # You can make any variable like this
 ```
+There is no other difference between variables between Java and Python.
+Now, let's how to print.
+It's as easy as this
+```python
+print("Hello")
+```
+You can also print variables themselves to print their values.
+Printing the type of variable a variable is is also possible.
+Next function, def.
+```python
+def hello_there():
+print("Wazzap")
+```
