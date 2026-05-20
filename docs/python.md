@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Java Notes"
+title: "Python Notes"
 nav_order: 5
 ---
 
@@ -14,4 +14,9 @@ nav_order: 5
 ## The least snakey snake: Python
 
 Python is the easiest language to learn, as it is the easiest to read and is recommended for beginners.
+Python is extremely good at compiling data and making graphs.
 Unlike Java, you do not need to declare the type of object to use it.
+```python
+x = 2
+# You can make any variable like this
+```
