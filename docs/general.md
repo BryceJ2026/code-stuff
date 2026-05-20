@@ -24,3 +24,4 @@ nav_order: 2
 * Having notes either in or outside the code is very important for review
 
 #### **REMEMBER**, this is meant to be a stepping stone. After you complete this, do your own research about these languages and learn more if you want to.
+#####(Keep in mind, this is meant to be short)
