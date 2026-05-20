@@ -23,4 +23,4 @@ nav_order: 2
 * Bugs are inevitable, so learn what errors mean what, and always fix spelling mistakes.
 * Having notes either in or outside the code is very important for review
 
-## **REMEMBER**, this is meant to be a stepping stone. After you complete this, do your own research about these languages and learn more if you want to.
+### **REMEMBER**, this is meant to be a stepping stone. After you complete this, do your own research about these languages and learn more if you want to.
