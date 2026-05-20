@@ -31,3 +31,14 @@ public class startThing
 }
 ```
 Writing a main method is how you start a Java file, and you cannot run code without it
+
+
+When you want to make a variable to use later in your code, you have to declare the type of variable it is, then assign it a value. You can also do
+
+```java
+boolean declared;
+// this is how you declare a variable
+declared = true;
+// this is how you assign a value
+boolean initialize = true;
+```
